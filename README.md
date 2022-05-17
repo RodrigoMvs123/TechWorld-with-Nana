@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=0yWAtQ6wYNM
 
 https://raw.githubusercontent.com/RodrigoMvs123/TechWorld-with-Nana/main/README.md
 
-
+https://github.com/RodrigoMvs123/TechWorld-with-Nana/blame/main/README.md
 
 Typical Software Release Process 
 Idea
