@@ -18,3 +18,7 @@ Deploy Application
 Configure Fireall
 Launch 
 
+How Developer Work
+Whitch Git Workflow 
+How Application is Configured
+Automated Tasting 
