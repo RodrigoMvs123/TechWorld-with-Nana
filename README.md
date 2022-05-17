@@ -29,3 +29,25 @@ Code Repository
 
 Operations Servers 
 On-premise or Cloud 
+
+Linux Basics 
+Command Line Interface 
+Shell Commands
+Linux File System
+Server Management 
+Firewall, Proxy Servers
+Load Balancers 
+Http/Https
+IP, DNS Name Resolution 
+
+
+
+
+
+
+
+
+
+
+
+
