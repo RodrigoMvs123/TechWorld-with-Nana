@@ -12,4 +12,5 @@ Configure the Server
 Installing Tolls 
 Deploy Application 
 Configure Fireall
-launch 
+Launch 
+
