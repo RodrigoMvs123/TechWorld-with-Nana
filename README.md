@@ -1,17 +1,15 @@
 # TechWorld-with-Nana
-https://www.youtube.com/watch?v=0yWAtQ6wYNM
 
-https://raw.githubusercontent.com/RodrigoMvs123/TechWorld-with-Nana/main/README.md
+- https://www.youtube.com/watch?v=0yWAtQ6wYNM
+- https://raw.githubusercontent.com/RodrigoMvs123/TechWorld-with-Nana/main/README.md
+- https://github.com/RodrigoMvs123/TechWorld-with-Nana/blame/main/README.md
 
-https://github.com/RodrigoMvs123/TechWorld-with-Nana/blame/main/README.md
-
-
-What is DevOps ?
+## What is DevOps ?
 
 What is DevOps? REALLY understand it | DevOps vs SRE
 
+### Typical Software Release Process
 
-Typical Software Release Process
 Idea 
 Requirements 
 Code it 
@@ -23,6 +21,7 @@ Installation of Tolls
 Deploy Application 
 Configure Firewall 
 Launch
+
 How Developer Work 
 Which Git Workflow 
 How Application is Configured 
@@ -33,7 +32,8 @@ Operations Servers On-premise or Cloud
  
  
  
-As a DevOps 
+### As a DevOps 
+
 Linux Basics 
 Command Line Interface 
 Shell Commands 
@@ -47,22 +47,23 @@ Load Balancers
 Http/Https 
 IP, DNS Name Resolution
 
-DevOps Engineer
+**DevOps Engineer**
+
 System Administrator 
 Network 
 Security 
 
+**DevOps Engineer**
 
-DevOps Engineer
 Virtualization 
 Containers 
-
 Code Repository - Servers - End Users 
 Continuously ( CI/CD ) 
 Automated 
-Build Automation 
-CI/CD 
 
+### Build Automation 
+
+CI/CD 
 Run Tests - Package App ( Build Tools & Package Manager ) 
 Maven 
 Grandle 
@@ -71,11 +72,13 @@ Build Docker Image
 Push to Artifact Repository 
 Nexus
 Docker Hub 
+
 Build Automation 
 GitLab 
 GithibActions
 TeamCity
 Jenkins 
+
 Continuous Integration - Continuous Deployment 
 Plan
 Code
@@ -85,7 +88,8 @@ Release
 Deploy 
 Operate 
 
-Cloud Providers 
+### Cloud Providers 
+
 Infrastructure as a Service ( AWS Google Cloud Microsoft Azure ) 
 Load Balancing 
 Backup 
@@ -93,20 +97,26 @@ Clustering
 Security 
 …
 
-Container Orchestration  
+### Container Orchestration  
+
 Application as a Container ( Docker Images ) 
 Docker Compose ( Manager ) 
 
-DevOps Engineer
+**DevOps Engineer**
+
 Kubernetes Cluster 
 To Learn Kubernetes 
-Infrastructure as a Code ( IaaC ) 
+
+### Infrastructure as a Code ( IaaC ) 
+
 Create Infrastructure 
 Configure to Run and Deploy your App
+
 Infrastructure Provisioning    ( Terraform )  
 Configuration Management ( Ansible , Chef Documentation, Puppet )  
  
-DevOps Engineer
+**DevOps Engineer**
+
 Monitor Software 
 Monitor Infrastructure 
 EX:
@@ -114,18 +124,18 @@ Prometheus
 Nagios
 
 Infrastructure Provisioning    
-
 Scripting Language
 
-DevOps Engineer
+**DevOps Engineer**
+
 Closely work with developers and system administrators 
 Automating tasks for development & operations 
-
 Backups 
 System Monitoring 
 Cron Jobs 
 
-Know a scripting or programing language 
+### Know a scripting or programing language 
+
 OS Specific
 Bash ( Linux Basics and Shell Programming Certification Training | Udemy )  
 PowerShell ( Cursos Certificação LPI Linux Essentials | Formação | Alura )  
@@ -133,21 +143,16 @@ Python.org
 Ruby 
 The Go Programming Language  ( Operate System Independent ) 
 
-DataBases ( Python.org ) 
+### DataBases ( Python.org ) 
+
 PostgreSQL
 MySQL
 MongoDB   
 
-Version Control 
+### Version Control 
+
 GitLab 
 GitHub
 Getting a Git Repository
+
 DevOps Bootcamp | Techworld with Nana
-
-
-
-
-
-
-
-
